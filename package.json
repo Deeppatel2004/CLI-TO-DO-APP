@@ -1,0 +1,11 @@
+{
+  "name": "cli-to-do-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { "list": "node index.js list" },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
